@@ -17,7 +17,7 @@ const displayMessage = function (message) {
   document.querySelector('.message').textContent = message;
 };
 
-console.log(secretNumber, typeof secretNumber);
+// console.log(secretNumber, typeof secretNumber);
 // input
 checkElement.addEventListener('click', function () {
   let numValueElement = Number(document.querySelector('.guess').value);
