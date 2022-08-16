@@ -1,5 +1,7 @@
 # Guess-My-Number
+
 Guess the number game
+![screenshot](./starter/img/guess-my-num-screen.png)
 
 👉guess the randomly generated number (between 1 - 20)
 
